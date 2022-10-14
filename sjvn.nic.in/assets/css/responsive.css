@@ -1,0 +1,52 @@
+/* 
+@media screen and (min-width:44.375em){
+  body:not(.custom-background-image):before,body:not(.custom-background-image):after{height:0}
+}
+@media screen and (max-width:1366px){ 
+}
+@media screen and (max-width:1199px){
+	html.body-font-14 {
+    	font-size: 12px;
+	}
+	.slide-content h1 {
+		font-size: 1.7rem;
+	}
+	h2.subtitle {
+		font-size: 1.4rem;
+	}
+	.about-sjvn-home {
+		padding: 15px 60px 10px 10px;
+	}
+}
+@media screen and (max-width:1023px){
+
+}
+@media screen and (max-width:950px){
+	#ddmenu>ul>li>a {
+		padding: 10px 14px;
+	}
+	
+}
+@media screen and (max-width:850px){}
+@media screen and (max-width:767px) {
+}
+@media screen and (max-width:600px){
+}
+@media screen and (max-width:575px){
+	.slide-content h1 {
+		font-size: 1.3rem;
+	}
+	.banner-icon a {
+		width: 28px;
+		height: 28px;
+		font-size: 1rem;
+		line-height: 1em;
+	}
+	.banner .slide-content {
+		padding: 5px 0px;
+	}
+}
+@media screen and (max-width:430px){
+}
+@media screen and (max-width:374px){
+} */

@@ -1,0 +1,354 @@
+body.purpletheme header nav {background-color: #4c2371;}
+body.purpletheme .menu > li:hover > a,
+body.purpletheme .menu > li > a.active {
+    background-color: #2f0c50;
+    color: #fff;
+}
+body.purpletheme .menu ul li a:hover, body.purpletheme .menu ol li a:hover {color: #4c2371;}
+body.purpletheme .pressreless-box .date {
+background: #4c2371; }
+body.purpletheme .pressreless-box .date span:last-child {
+background-color: #270448; }
+body.purpletheme .pressreless-box span.icon-new {
+color: #ed1c24; }
+body.purpletheme .kaleidoscope a {
+border: solid 1px #2b323a; }
+body.purpletheme .kaleidoscope a:hover {
+border-color: #4c2371; }
+body.purpletheme .kaleidoscope a:hover p {
+color: #4c2371; }
+body.purpletheme .kaleidoscope a:hover span.icon-pdf {
+color: #4c2371; }
+body.purpletheme .table-last-view tbody tr:last-child {
+background: #4c2371; }
+body.purpletheme .table td.navyblue {
+background: #270448;
+color: #fff;
+border-color: #c7d5da; }
+body.purpletheme .table td.fourthblue {
+background: #4c2371; 
+border-color: #c7d5da;}
+body.purpletheme table.common-table tbody tr:last-child td.fourthblue + td, body.purpletheme table.common-table tbody tr:last-child td.fourthblue + td + td, body.purpletheme table.common-table tbody tr:last-child td.fourthblue + td + td + td {
+    border-color: #c7d5da; }
+body.purpletheme .search-filter .custom-col input, body.purpletheme .search-filter .custom-col select {
+border: transparent;
+color: #270448;
+background: #fff;}
+body.purpletheme .search-filter .custom-col input::placeholder, body.purpletheme .search-filter .custom-col input::-moz-placeholder,
+body.purpletheme .search-filter .custom-col input::-webkit-input-placeholder {
+color: #270448 !important;
+opacity: 1 !important;}
+body.purpletheme input::-webkit-input-placeholder {
+color: #270448; }
+body.purpletheme input:-moz-placeholder {
+color: #270448; }
+body.purpletheme input::-moz-placeholder {
+color: #270448; }
+body.purpletheme input:-ms-input-placeholder {
+color: #270448; }
+body.purpletheme .btn-primary {
+background: #4c2371;
+border-color: #4c2371; }
+body.purpletheme .btn-primary:hover, body.purpletheme .btn-primary:active, body.purpletheme .btn-primary:focus, body.purpletheme .btn-primary:not(:disabled):not(.disabled):active {
+background: #270448;
+border-color: #270448;
+color: #fff; }
+body.purpletheme a.text-underline {
+    color: #4c2371;
+}
+body.purpletheme a.text-underline:hover {
+color: #4c2371;
+text-decoration:underline;
+}
+body.purpletheme .innper_banner img {
+opacity: 0.5; }
+body.purpletheme .top-container {
+background-color: #0e0b07; }
+body.purpletheme .formsearch input {
+border: none;
+background: none;
+border-bottom: solid 1px #FFF;
+color: #333; }
+body.purpletheme .formsearch input::-webkit-input-placeholder {
+color: #FFF; }
+body.purpletheme .formsearch input:-moz-placeholder {
+color: #FFF; }
+body.purpletheme .formsearch input::-moz-placeholder {
+color: #FFF; }
+body.purpletheme .formsearch input:-ms-input-placeholder {
+color: #FFF; }
+/*body.purpletheme .readmore-notification a {
+color: #FFF; }*/
+body.purpletheme .readmore-notification a:hover span {
+background: #4c2371; }
+body.purpletheme .readmore-notification a:hover span:before {
+color: #fff; }
+body.purpletheme .alert-arrow p:hover {
+color: #4c2371; }
+body.purpletheme .banner-icon a {
+background: #5a4a6e; }
+body.purpletheme .banner-icon a:hover, body.purpletheme .banner-icon a button {
+color: #fff;
+background: #4c2371; }
+body.purpletheme button.slick-arrow:hover {
+color: #fff;
+background: #4c2371; }
+body.purpletheme h2.subtitle:before, body.purpletheme h2.subtitle.white-text:before {
+background-color: #de6b1b; }
+body.purpletheme .about-sjvn-home span, body.purpletheme .about-sjvn-home a,
+body.purpletheme .latest-update ul li span {
+color: #a3a2a0; }
+body.purpletheme .latest-update ul li a, body.purpletheme .latest-update ul li a span {
+color: #fff;}
+body.purpletheme .aboutsjvn .slick-arrow {
+background: #5a4a6e;}
+body.purpletheme .latest-update {
+background: #270448;}
+body.purpletheme .alert-div a:hover span {
+background-color: #4c2371; }
+body.purpletheme .alert-div span {
+color: #636363; }
+body.purpletheme .latest-update ul li {
+border-bottom-color: #5f5f5f; }
+body.purpletheme .about-sjvn-home a.arrow-round:hover {
+background-color: #4c2371; }
+body.purpletheme .about-sjvn-home a.arrow-round:hover:before {
+color: #fff; }
+body.purpletheme .our-business {
+background: #27043a; }
+body.purpletheme .our-container .our-description {
+background: rgba(76, 35, 113, 0.9); }
+body.purpletheme .our-container .our-description h4, body.purpletheme .our-container .our-description p {
+color: #fff; }
+body.purpletheme .our-container .our-description a.arrow-round h4 {
+color: #000; }
+body.purpletheme footer a#back-to-top {
+    background: #df6c1c;
+    color: #fff;
+}
+    body.purpletheme footer a#back-to-top:hover {
+        background: #000;
+        color: #FFF;
+    }
+body.purpletheme .page-title .breadcrumbs ul li span {
+color: #4c2371; }
+body.purpletheme .our-business.about-page-slider {
+background-color: #e6ecee; }
+/* body.purpletheme .about-page-slider .rightp {
+color: #fff;}
+body.purpletheme .our-business.about-page-slider a {
+color: #FFF; } */
+body.purpletheme .about-page-slider .latest-update {
+background: #FFF; }
+body.purpletheme .about-page-slider .latest-update ul li h4 {
+color: #270448; }
+body.purpletheme .about-page-slider .latest-update ul li a span {
+color: #270448; }
+/*body.purpletheme .right-menu ul {
+border-color: #58595a; }
+body.purpletheme .right-menu ul li {
+border-bottom-color: #5a4a6e;}*/
+body.purpletheme .right-menu ul li a:hover, body.purpletheme .right-menu ul li a.active {
+background: #4c2371; }
+body.purpletheme .profile:before {
+background: #4c2371; }
+body.purpletheme .profile:hover:before {
+background: rgba(76, 35, 113, 0.7); }
+@media screen and (max-width: 991px) {
+body.purpletheme .profile {
+max-width: 240px;
+margin: 0 auto 30px; } }
+body.purpletheme a.viewmore {
+background: #4c2371;}
+body.purpletheme a.viewmore:hover {
+background: #270448;
+color: #fff; }
+body.purpletheme .custom-accrodian .card {
+background: #4c2371; }
+body.purpletheme .custom-accrodian .card .card-header a.btn-link.collapsed {
+background: #270448;
+color: #FFF; }
+body.purpletheme .custom-accrodian .card .card-header a.btn-link.collapsed:before, body.purpletheme .custom-accrodian .card .card-header a.btn-link.collapsed:after {
+background: #FFF; }
+body.purpletheme .custom-accrodian .card .card-header a.btn-link {
+background: #4c2371;}
+body.purpletheme .bodarrow a {
+color: #FFF; }
+body.purpletheme .bodarrow a:hover {
+color: #4c2371; }
+body.purpletheme .report-div a:hover {
+border-color: #4c2371; }
+body.purpletheme .report-div a:hover h4, body.purpletheme .report-div a:hover p, body.purpletheme .report-div a:hover span {
+color: #4c2371; }
+/* body.purpletheme .report-div span:hover {
+background: rgba(255, 255, 255, 0.1); } */
+body.purpletheme .search-filter .searchbtn {
+width: 90px;
+flex: 0 0 90px; }
+body.purpletheme .search-filter .searchbtn a {
+background: #4c2371;
+border: solid 1px #4c2371; }
+body.purpletheme .search-filter .searchbtn a:hover {
+background: #270448;
+color: #FFF;
+border-color: #270448; }
+body.purpletheme .horizental-tabs > ul {
+border-bottom: solid 1px #58595a; }
+body.purpletheme .horizental-tabs > ul li a:before {
+background: #4c2371; }
+@media screen and (max-width: 767px) {
+body.purpletheme .horizental-tabs > ul li {
+flex: 100%;
+padding-top: 10px; }
+body.purpletheme .horizental-tabs > ul li a {
+padding-bottom: 10px; } }
+body.purpletheme .about-page-slider .verticle-tab ul.nav-tabs li a {
+    background: #270448; color: #fff;}
+body.purpletheme .verticle-tab ul.nav-tabs li a.active, body.purpletheme .verticle-tab ul.nav-tabs li a:hover {
+background: #4c2371;
+color: #fff; }
+body.purpletheme .about-page-slider .verticle-tab ul.nav-tabs li a {
+border-bottom: solid 1px #5a4a6e; }
+body.purpletheme .verticle-tab .tab-content .tab-pane h5 {
+border-bottom: solid 1px #dedede; }
+@media screen and (max-width: 1166px) {
+body.purpletheme .verticle-tab {
+margin-bottom: 20px; } }
+body.purpletheme .key-executive h6 {
+background: #4c2371;}
+
+body.purpletheme .blue-box h6 {
+background: #4c2371;}
+body.purpletheme .blue-box a {
+color: #FFF; }
+body.purpletheme .black-box h6 {
+background: #4c2371; }
+body.purpletheme .pagination li a.active {
+background: #4c2371; }
+body.purpletheme .key-profile p {
+background: #4c2371; }
+body.purpletheme table, body.purpletheme tr, body.purpletheme td {
+border-color: #58595a; }
+body.purpletheme table.act-table.saprator tbody th, body.purpletheme table.act-table.saprator tbody td, body.purpletheme table.act-table.saprator thead th, body.purpletheme table.act-table.saprator thead td {
+border-left: solid 1px #58595a; }
+body.purpletheme .table thead {
+background: #4c2371; }
+body.purpletheme table.common-table thead tr:first-child th {
+background: #270448; }
+body.purpletheme table.common-table tbody tr:last-child {
+background: #4c2371; }
+body.purpletheme table.common-table tbody tr:last-child td {
+color: #fff; }
+body.purpletheme table.common-table tr.blue td {
+background: #4c2371;}
+/*body.purpletheme ul.result-list {
+border-top: solid 1px #58595a;
+border-left: solid 1px #58595a; }*/
+body.purpletheme ul.result-list li {
+display: block;
+/*border-bottom: solid 1px #58595a;
+border-right: solid 1px #58595a;*/ }
+body.purpletheme .uloutside > li:before {
+background: #FFF; }
+body.purpletheme .pagenav ul li a {
+border: solid 1px #212121;
+background: #270448;
+color: #FFF; }
+body.purpletheme .pagenav ul li a.active {
+background: #4c2371;
+border-color: #4c2371;
+color: #000; }
+body.purpletheme .pagenav .employe-div button {
+color: #FFF; }
+body.purpletheme .p-operation-maintenance {
+border: solid 1px #58595a; }
+body.purpletheme .gallery-over {
+background-color: #4c2371; }
+body.purpletheme .back-link {
+border-color: #fff;
+background: rgba(76, 35, 113, 0.6);
+color: #fff; }
+body.purpletheme .back-link:hover {
+background: #4c2371; }
+body.purpletheme .sitemap a:hover,
+body.purpletheme .page-title .breadcrumbs ul li span {
+    color: #ba89e5;
+}
+/* body.purpletheme .our-business.about-page-slider h2.subtitle {
+color: #fff;} */
+body.purpletheme  table.act-table tbody tr:hover td span {
+color: #4c2371;}
+body.purpletheme .ourbusiness .our-description a.arrow-round:hover {
+background: #270448;}
+body.purpletheme .blackarrow.arrow-slider a {
+color: #270448; }
+body.purpletheme .arrow-round:hover {
+background: #270448;}
+body.purpletheme a:hover { color: #4c2371;}
+body.purpletheme .our-business {
+background: #270341;}
+body.purpletheme .pressreless-box a:hover {
+color:#270448;}
+@media screen and (max-width: 991px) {
+    body.purpletheme.mobile-menu-open .menu .caret {
+    background: #270448;}
+}
+body.purpletheme .key-executive a {
+    color: #FFF;
+    background: #4c2371;
+    text-decoration: none;
+}
+    body.purpletheme .key-executive a:hover {
+        background: #270448;
+    }
+
+body.purpletheme .black-box h6 {
+    background: #2b323a;
+}
+body.purpletheme .menu, body.purpletheme .menuicon {
+    background: #4c2371;
+}
+body.purpletheme.mobile-menu-open ul.menu li ul.submenu,
+body.purpletheme.mobile-menu-open ul.menu li .dropdownmenu {
+    background: #2f0c50;
+}
+    body.purpletheme.mobile-menu-open ul.menu li .dropdownmenu ol li .dropdownmenu {
+        background: #653d89;
+    }
+body.purpletheme ul.menu li .dropdownmenu h6 {
+    color: #653d89;
+}
+body.purpletheme ul.menu li .dropdownmenu.dropdownmenu-level2 h6 {
+    color: #c0aad5;
+}
+body.purpletheme .menu ol li:hover > a,
+body.purpletheme .menu ol li a:hover,
+body.purpletheme .menu ul li a:hover {
+    color: #653d89;
+    background: #150524;
+}
+    body.purpletheme .menu ol li:hover > a > i:after {
+        border-color: #2e3650;
+    }
+
+body.purpletheme .search > a:hover,
+body.purpletheme .alert-icon > a:hover,
+body.purpletheme .call-header > a:hover,
+body.purpletheme .top-left a:hover,
+body.purpletheme .language a:hover,
+body.purpletheme .langu-size a:hover,
+body.purpletheme section.our-business .arrow-slider a:hover {
+    color: #a682c8;
+}
+body.purpletheme .search .formsearch button,
+body.purpletheme .alert-icon .formsearch button {
+    color: #4c2371;
+}
+
+body.purpletheme .footer-menu ul li a:hover {
+    color: #a682c8;
+}
+body.purpletheme ul.result-list li:hover a span,
+body.purpletheme ul.result-list li a:hover span {
+    color: #4c2371;
+}

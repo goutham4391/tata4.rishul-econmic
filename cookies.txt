@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+sjvn.nic.in	TRUE	/	FALSE	1999999999	lan	1
+sjvn.nic.in	TRUE	/	FALSE	1999999999	themehealth	whitetheme
+sjvn.nic.in	TRUE	/	FALSE	1999999999	.AspNetCore.Session	CfDJ8EHsywBYN7BFn3u89%2B175RPIVMWflYydylNzUUiAraNGvtLkTg%2Bbftf7lSi0TBTjRdUF3j1iIpvovlNW6lTJngJS6hb3xB%2BjybmFZTm4Xrj7I8L9Jo8lhamNlQ3w7E5vt5higtJ4poyisgcagLMirN6k1601YQ78oLFaf%2BFLOWGT
+sjvn.nic.in	TRUE	/	FALSE	1999999999	samesite	lax
+sjvn.nic.in	TRUE	/	FALSE	1999999999	.AspNetCore.Culture	c%3Den%7Cuic%3Den
+

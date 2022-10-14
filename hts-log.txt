@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 14 Oct 2022 08:40:18 at https://sjvn.nic.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sjvn.nic.in/ -O1 "C:\10Intership\tata4" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:42:26	Error: 	"Not Found" (404) at link https://sjvn.nic.in/screenreader/ getscreenreaderdata (from https://sjvn.nic.in/)
+08:43:21	Error: 	Exit requested by shell or user
+08:43:21	Warning: 	File not added due to mirror cancel: https://sjvnindia.com/UploadFiles/NewsPressFiles/CMD SJVN ADDRESSING POWER CPSU IT MEET_745384161.jpg
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 11 seconds : 281 links scanned, 279 files written (44616627 bytes overall) [41801390 bytes received at 218855 bytes/sec], 4078937 bytes transferred using HTTP compression in 154 files, ratio 27%
+(2 errors, 1 warnings, 0 messages)
